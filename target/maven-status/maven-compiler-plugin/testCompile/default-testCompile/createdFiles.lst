@@ -1,0 +1,5 @@
+org\wikipedia\pages\BasePage.class
+org\wikipedia\pages\GooglePage.class
+org\wikipedia\pages\WikipediaPage.class
+org\wikipedia\commons\Constantes.class
+org\wikipedia\tests\FindWikipediaTest.class
