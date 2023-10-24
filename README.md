@@ -1,6 +1,7 @@
 # wikipedia-qa-dev-inditex
 
-Ejercicio 2: Automatización de una web
+Ejercicio 2: Automatización de una web.
+
 Debes realizar una automatización consistente en:
 1. Buscar en Google la palabra “automatización”
 2. Buscar el link de la Wikipedia resultante
